@@ -1,0 +1,34 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 22-jun-2016, 18:02:49
+    Author     : CristianFaune
+*/
+
+#margen-login{
+    margin-top: 230px;
+}
+
+#centrar-logo{
+    position: absolute;
+    margin-top: -20px;
+    margin-left: 200px;
+}
+
+#img{
+    opacity: 0.2;
+}
+
+#titulo-index{
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+}
+
+body {
+    background-image: url("img/background.png");
+    background-repeat: repeat-y;
+}
+
